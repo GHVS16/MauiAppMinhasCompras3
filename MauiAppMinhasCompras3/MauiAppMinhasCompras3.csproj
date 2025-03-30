@@ -16,7 +16,7 @@
 		<OutputType>Exe</OutputType>
 		<RootNamespace>MauiAppMinhasCompras3</RootNamespace>
 		<UseMaui>true</UseMaui>
-		<SingleProject>true</SingleProject>V
+		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 
